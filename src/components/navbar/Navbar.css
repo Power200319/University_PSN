@@ -17,6 +17,10 @@ nav ul li{
     margin: 5px 20px;
     font-size: 16px;
 }
+.logo{
+    width: 70px;
+    height: 70px;
+}
 .dark-nav{
     background: #212EA0;
     transition: 0.5s;
